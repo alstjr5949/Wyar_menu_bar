@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+    list-style:none;
+    text-decoration:none;
+    color:black;
+}
+
+.header{
+    height:60px;
+    margin:0px 311.5px;
+    padding:0px 40px;
+    font-family: "Poppins","Noto Sans KR",sans-serif;
+    font-size: 16px;
+}
+
+.title{
+    float: left;
+    height: 27px;
+    margin-top:16.5px;
+    margin-bottom:16.5px;
+    width:214px;
+}
+
+.list ul{
+    float: right;
+}
+
+.list ul li{
+    display:inline-block;
+    font-family: "Poppins","Noto Sans KR", sans-serif;
+    font-weight: 500;
+    font-size: 1.125rem;
+}
+
+.list ul li a{
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+    color: #101010;
+    padding: 0 35px;
+}
